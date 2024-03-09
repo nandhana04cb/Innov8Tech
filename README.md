@@ -18,10 +18,13 @@ Innov8Tech
 ## How to configure
 1.HTML Setup:
 Created HTML elements for the typing passage, input field, timer, result display, and start button.
+
 2.CSS Styling:
 Applied CSS to style the elements for a visually appealing interface.
+
 3.JavaScript Functions:
 Written functions to start the test, update the timer, end the test, calculate WPM,erors in words,accuracy and display of the result.
+
 ## How to Run
 1.Download:
  Download the project files (HTML, CSS, JavaScript) or clone the repository from GitHub.
