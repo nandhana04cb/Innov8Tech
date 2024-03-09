@@ -8,7 +8,7 @@ Welcome to Flashkeys, the ultimate typing speed test! Enhance your typing skills
       https://github.com/S-Thejaswini
 3. Kanishka C 
      https://github.com/Kanishka-nssce
-   4. Riya S
+4. Riya S
       https://github.com/riyamohandas
 ## Team Id
 Innov8Tech
