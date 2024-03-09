@@ -1,7 +1,6 @@
 # Innov8Tech
 # Project Name
-Flash keys
-Welcome to Flashkeys, the ultimate typing speed test! Enhance your typing skills with real-time accuracy feedback, speed measurement, and customizable essays—all in an easy-to-use interface.
+Flash keys, the ultimate typing speed test! Enhance your typing skills with real-time accuracy feedback, speed measurement, and customizable essays—all in an easy-to-use interface.
 ## Team members
 1. C B Nandhana
       https://github.com/nandhana04cb
