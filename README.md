@@ -3,13 +3,13 @@
 Flash keys, the ultimate typing speed test! Enhance your typing skills with real-time accuracy feedback, speed measurement, and customizable essays—all in an easy-to-use interface.
 ## Team members
 1. C B Nandhana
-      https://github.com/nandhana04cb
+      https://github.com/nandhana04cb[backend-JavaScript]
 3. S Thejaswini
-      https://github.com/S-Thejaswini
+      https://github.com/S-Thejaswini[backend-JavaScript]
 4. Kanishka C 
-      https://github.com/Kanishka-nssce
+      https://github.com/Kanishka-nssce[FrontEnd-HTML]
 5. Riya S
-      https://github.com/riyamohandas
+      https://github.com/riyamohandas[FrontEnd-css]
 ## Team Id
 Innov8Tech
 ## How it Works ?
