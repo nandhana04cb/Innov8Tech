@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FlashKey</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1 class="page-title">FlashKeys</h1>   
+    <nav class="navbar">
+        <ul>
+            <li><a href="#" id="show-tips">Tips</a></li>
+            <li><a href="#"id="show-about">About</a></li>
+            <li><a href="#" id="show-contact">Contact Us</a></li>
+        </ul>
+    </nav>
+    <!-- Inside the body tag -->
+<div id="tips-popup" class="tips-popup">
+    <div class="tips-content">
+        <span id="close-tips" class="close">&times;</span>
+        <h2>Tips for Typing</h2>
+        <ul id="tips-list">
+            <li>Practice regularly to improve your typing speed.</li>
+            <li>Maintain proper posture while typing to prevent strain.</li>
+            <li>Take breaks to rest your hands and eyes during long typing sessions.</li>
+            <!-- Add more tips as needed -->
+        </ul>
+    </div>
+</div>
+<!-- Inside the body tag, after the tips popup -->
+<div id="about-popup" class="about-popup">
+    <div class="about-content">
+        <span id="close-about" class="close">&times;</span>
+        <h2>About FlashKeys</h2>
+        <p>
+            This project, FlashKeys, is a typing speed checking website designed to help users improve their typing skills.
+            It provides users with a random paragraph to type within a certain time limit, calculates their typing speed,
+            and offers tips to enhance their performance.
+        </p>
+        <!-- Add more information about the project as needed -->
+    </div>
+</div>
+<!--<div id="contact-popup" class="popup">
+    <div class="popup-content">
+        <span id="close-contact" class="close">&times;</span>
+        <h2>Contact Us</h2>
+        <p>If you have any questions or inquiries, feel free to contact us at <a href="mailto:22b781@gmail.com">Kanishka</a>.</p>
+         Add more content as needed 
+    </div>
+</div>-->
+<div id="contact-popup" class="popup">
+    <div class="popup-content">
+        <span class="close">&times;</span>
+        <h3>Contact Us</h3>
+        <p>Email: example@example.com</p>
+        <p>Phone: +123456789</p>
+        <!-- Add more contact information as needed -->
+    </div>
+</div> 
+    <div class="container">
+        
+        <input type="text" class="input-field">
+        <div class="content-box">
+            <div class="text-of-typing">
+                <p></p>
+            </div>
+            <div class="content">
+                <ul class="result">
+                    <li class="time">
+                        <p>Time</p>
+                        <span>60s</span>
+                    </li>
+                    <li class="errors">
+                        <p>Errors</p>
+                        <span>0</span>
+                    </li>
+                    <li class="wpm">
+                        <p>WPM</p>
+                        <span>0</span>
+                    </li>
+                    <li class="cpm">
+                        <p>CPM</p>
+                        <span>0</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="feedback-container">
+            <div class="feedback"></div>
+        </div>
+        <button>Regenerate</button>
+    </div>
+    <!--<div class="feedback"></div>-->
+    <script src="paragraph1.js"></script>
+    <script src="apps.js"></script>
+</body>
+
+</html>
